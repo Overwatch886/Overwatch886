@@ -9,7 +9,8 @@
 
 ## 📊 GitHub Statistics
 
-**Profile Views & Followers:**
+**Profile Views & Engagement:**
+- ![Profile Views](https://komarev.com/ghpvc/?username=Overwatch886&color=blue&style=flat-square)
 - ![GitHub followers](https://img.shields.io/github/followers/Overwatch886?style=social)
 - ![GitHub User's stars](https://img.shields.io/github/stars/Overwatch886?style=social)
 
@@ -19,11 +20,21 @@
 
 ---
 
-## 🛠️ Technologies & Languages
+## 💻 Languages & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-9f7aea?style=for-the-badge&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overwatch886&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+*The chart above shows the distribution of languages used across all my repositories.*
+
+---
+
+## 🎯 Interests & Expertise
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🐍 **Python Development**
+- ⚛️ **Quantum Computing**
+- 🔬 **Quantum Machine Learning**
+- 🧠 **AI Research**
 
 ---
 

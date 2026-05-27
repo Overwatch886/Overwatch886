@@ -1,0 +1,43 @@
+name: Update Top Languages SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-top-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate top languages SVG
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: Overwatch886
+          OUTPUT_PATH: assets/top-langs.svg
+          INCLUDE_FORKS: "false"
+        run: python scripts/generate_top_langs_svg.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- assets/top-langs.svg; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/top-langs.svg
+          git commit -m "chore: update top languages svg"
+          git push

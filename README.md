@@ -22,11 +22,9 @@
 
 ## 💻 Languages & Technologies
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overwatch886&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" />
-</a>
+![Top Languages](./assets/top-langs.svg)
 
-*The chart above dynamically shows the distribution of all languages used across my repositories.*
+*The chart above is auto-generated weekly from GitHub API language bytes across my public repositories (forks excluded by default).*
 
 ---
 

@@ -11,44 +11,44 @@
   <text x="24" y="38" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="24" font-weight="700">Top Languages</text>
   <text x="24" y="62" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">User: Overwatch886 · Public repositories · Excluding forks</text>
   <text x="24" y="130" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Jupyter Notebook</text>
-  <text x="215" y="130" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">78.27%</text>
+  <text x="215" y="130" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">57.04%</text>
   <rect x="250" y="116" width="480" height="12" rx="6" fill="#21262D"/>
-  <rect x="250" y="116" width="375.70" height="12" rx="6" fill="#58A6FF"/>
-  <text x="24" y="164" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">HTML</text>
-  <text x="215" y="164" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">10.00%</text>
+  <rect x="250" y="116" width="273.80" height="12" rx="6" fill="#58A6FF"/>
+  <text x="24" y="164" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">TypeScript</text>
+  <text x="215" y="164" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">25.66%</text>
   <rect x="250" y="150" width="480" height="12" rx="6" fill="#21262D"/>
-  <rect x="250" y="150" width="47.99" height="12" rx="6" fill="#F1E05A"/>
-  <text x="24" y="198" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Python</text>
-  <text x="215" y="198" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">8.04%</text>
+  <rect x="250" y="150" width="123.16" height="12" rx="6" fill="#F1E05A"/>
+  <text x="24" y="198" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">HTML</text>
+  <text x="215" y="198" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">7.36%</text>
   <rect x="250" y="184" width="480" height="12" rx="6" fill="#21262D"/>
-  <rect x="250" y="184" width="38.59" height="12" rx="6" fill="#3572A5"/>
-  <text x="24" y="232" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Kotlin</text>
-  <text x="215" y="232" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">1.94%</text>
+  <rect x="250" y="184" width="35.34" height="12" rx="6" fill="#3572A5"/>
+  <text x="24" y="232" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Python</text>
+  <text x="215" y="232" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">5.86%</text>
   <rect x="250" y="218" width="480" height="12" rx="6" fill="#21262D"/>
-  <rect x="250" y="218" width="9.33" height="12" rx="6" fill="#E34C26"/>
-  <text x="24" y="266" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Java</text>
-  <text x="215" y="266" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">1.24%</text>
+  <rect x="250" y="218" width="28.12" height="12" rx="6" fill="#E34C26"/>
+  <text x="24" y="266" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Kotlin</text>
+  <text x="215" y="266" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">1.42%</text>
   <rect x="250" y="252" width="480" height="12" rx="6" fill="#21262D"/>
-  <rect x="250" y="252" width="5.96" height="12" rx="6" fill="#3178C6"/>
-  <text x="24" y="300" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Batchfile</text>
-  <text x="215" y="300" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.14%</text>
+  <rect x="250" y="252" width="6.80" height="12" rx="6" fill="#3178C6"/>
+  <text x="24" y="300" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">PLpgSQL</text>
+  <text x="215" y="300" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">1.16%</text>
   <rect x="250" y="286" width="480" height="12" rx="6" fill="#21262D"/>
-  <rect x="250" y="286" width="2.00" height="12" rx="6" fill="#B07219"/>
-  <text x="24" y="334" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">JavaScript</text>
-  <text x="215" y="334" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.11%</text>
+  <rect x="250" y="286" width="5.59" height="12" rx="6" fill="#B07219"/>
+  <text x="24" y="334" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Java</text>
+  <text x="215" y="334" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.90%</text>
   <rect x="250" y="320" width="480" height="12" rx="6" fill="#21262D"/>
-  <rect x="250" y="320" width="2.00" height="12" rx="6" fill="#C6538C"/>
-  <text x="24" y="368" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">PowerShell</text>
-  <text x="215" y="368" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.09%</text>
+  <rect x="250" y="320" width="4.34" height="12" rx="6" fill="#C6538C"/>
+  <text x="24" y="368" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">CSS</text>
+  <text x="215" y="368" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.19%</text>
   <rect x="250" y="354" width="480" height="12" rx="6" fill="#21262D"/>
   <rect x="250" y="354" width="2.00" height="12" rx="6" fill="#A97BFF"/>
-  <text x="24" y="402" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Inno Setup</text>
-  <text x="215" y="402" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.09%</text>
+  <text x="24" y="402" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">JavaScript</text>
+  <text x="215" y="402" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.11%</text>
   <rect x="250" y="388" width="480" height="12" rx="6" fill="#21262D"/>
   <rect x="250" y="388" width="2.00" height="12" rx="6" fill="#00ADD8"/>
   <text x="24" y="436" fill="#E6EDF3" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Other</text>
-  <text x="215" y="436" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.08%</text>
+  <text x="215" y="436" text-anchor="end" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">0.29%</text>
   <rect x="250" y="422" width="480" height="12" rx="6" fill="#21262D"/>
   <rect x="250" y="422" width="2.00" height="12" rx="6" fill="#89E051"/>
-  <text x="24" y="472" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Auto-generated via GitHub Actions · Updated 2026-09-13 01:33 UTC</text>
+  <text x="24" y="472" fill="#8B949E" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Auto-generated via GitHub Actions · Updated 2026-09-20 01:50 UTC</text>
 </svg>
